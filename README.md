@@ -1,1 +1,1 @@
-# rsschool-cv
+[Inna Husenko](https://husinna.github.io/rsschool-cv/cv)
