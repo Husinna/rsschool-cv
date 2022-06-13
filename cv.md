@@ -21,6 +21,11 @@
 - Windows OS
 - HTML (Basic knowledge)
 ***
+## **Code Example:**
+function greet() {
+    return "hello world!";
+    }
+***
 ## **Education:**
 + Master's degree of National Transport University
 ***
